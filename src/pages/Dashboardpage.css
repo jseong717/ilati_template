@@ -1,0 +1,4 @@
+.Dashboardpages__Panel {
+    display: flex;
+    flex-direction: row;
+}

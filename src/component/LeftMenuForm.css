@@ -1,0 +1,83 @@
+.LeftMenu__Panel {
+    z-index: 3;
+    /* width: 16%; */
+    width: 306px;
+    height: 100vh;
+    background: #171818;
+}
+
+.ILATILogo__Panel {
+    display: flex;
+    width: 306px;
+    height: 84px;
+    background: #000000;
+}
+
+.ILATILogo__Image {
+    margin-left: 28px;
+    align-self: center;
+}
+
+.LeftMenuCustom__Panel {
+    width: 306px;
+    height: auto;
+}
+
+.LeftMenuCustom__TextPanel {
+    display: flex;
+    width: 306px;
+    height: 70px;
+}
+
+.LeftMenuCustom__TextPanel__Text {
+    z-index: 3;
+    width: 57.46px;
+    height: 19px;
+    color: #434343;
+    font-family: "AppleSDGothicNeo-SemiBold";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+
+    margin-top: 9px;
+    margin-left: 28px;
+
+    align-self: center;
+}
+
+.LeftMenuCustom__Application__Panel {
+    width: 306px;
+    height: 56px;
+}
+
+.LeftMenuCustom__Pages__Panel {
+    width: 306px;
+    height: 56px;
+}
+
+.LeftMenuCRUD__TextPanel {
+    display: flex;
+    width: 306px;
+    height: 64px;
+}
+
+.LeftMenuCRUD__TextPanel__Text {
+    z-index: 3;
+    width: 57.46px;
+    height: 19px;
+    color: #434343;
+    font-family: "AppleSDGothicNeo-SemiBold";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+
+    margin-top: 9px;
+    margin-left: 28px;
+
+    align-self: center;
+}
+
+.LeftMenuCRUD__Forms__Panel {
+    width: 306px;
+    height: 56px;
+}
